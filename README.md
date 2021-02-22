@@ -1,4 +1,5 @@
-# Clock [EN]
+# Clock 
+[EN]
 This is a very simple clock. Works only on windows
 
 I'm just doing this for pratice and learn more about C
